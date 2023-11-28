@@ -19,9 +19,9 @@ In addition to location and weather data, beach closings from prior weeks will b
 ## Features for each Beach:
 - Latitute
 - Longitude
-- % of days open on week 1
-- % of days open on week 2
-- % of days open on week 3
+- % of days closed on week 1
+- % of days closed on week 2
+- % of days closed on week 3
 - Average rainfall on week 1
 - Average rainfall on week 2
 - Average rainfall on week 3
