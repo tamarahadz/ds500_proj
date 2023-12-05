@@ -1,0 +1,13 @@
+name: mass_beach
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pandas
+  - ipykernel
+  - jupyter
+  - openpyxl
+  - seaborn
+  - numpy
+  - conda-forge::geopandas
